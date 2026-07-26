@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IshaanKapil/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/IshaanKapil/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/IshaanKapil/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IshaanKapil/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/IshaanKapil/DSA/tree/master/0182-duplicate-emails) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/IshaanKapil/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/IshaanKapil/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
