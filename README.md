@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshaanKapil/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/IshaanKapil/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/IshaanKapil/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/IshaanKapil/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IshaanKapil/DSA/tree/master/0054-spiral-matrix) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanKapil/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/IshaanKapil/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
