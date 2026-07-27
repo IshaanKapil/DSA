@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/IshaanKapil/DSA/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/IshaanKapil/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
