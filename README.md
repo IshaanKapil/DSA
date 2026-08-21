@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshaanKapil/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/IshaanKapil/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/IshaanKapil/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/IshaanKapil/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanKapil/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/IshaanKapil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/IshaanKapil/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/IshaanKapil/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanKapil/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/IshaanKapil/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/IshaanKapil/DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/IshaanKapil/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/IshaanKapil/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/IshaanKapil/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IshaanKapil/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/IshaanKapil/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/IshaanKapil/DSA/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/IshaanKapil/DSA/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
