@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/IshaanKapil/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IshaanKapil/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/IshaanKapil/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/IshaanKapil/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/IshaanKapil/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
