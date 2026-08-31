@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshaanKapil/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/IshaanKapil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/IshaanKapil/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/IshaanKapil/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/IshaanKapil/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanKapil/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/IshaanKapil/DSA/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanKapil/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
