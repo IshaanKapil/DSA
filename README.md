@@ -83,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/IshaanKapil/DSA/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/IshaanKapil/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/IshaanKapil/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0234-palindrome-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/IshaanKapil/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
