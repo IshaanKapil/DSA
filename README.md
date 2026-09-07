@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IshaanKapil/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/IshaanKapil/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/IshaanKapil/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/IshaanKapil/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/IshaanKapil/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/IshaanKapil/DSA/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/IshaanKapil/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/IshaanKapil/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/IshaanKapil/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/IshaanKapil/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
 ## Union-Find
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/IshaanKapil/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/IshaanKapil/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
